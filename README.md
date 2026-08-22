@@ -316,7 +316,6 @@ This could help identify operational factors associated with unsuccessful order 
 
 ### Documentation
 
-- Microsoft PowerPoint
 - GitHub
 
 ---
