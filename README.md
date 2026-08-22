@@ -247,7 +247,8 @@ The month slicer allows users to filter the dashboard and examine performance fo
 
 ### Dashboard Preview
 
-![Dashboard Overview](dashboard/dashboard_preview.png)
+<img width="918" height="522" alt="Dashboard Preview" src="https://github.com/user-attachments/assets/84a61551-8824-464f-a316-ad30a028a5a5" />
+
 
 ---
 
